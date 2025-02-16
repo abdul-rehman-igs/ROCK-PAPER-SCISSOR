@@ -1,6 +1,6 @@
 Description
 
-This is a simple command-line-based Rock-Paper-Scissors game implemented in Python. The game allows a player to compete against the computer in a classic Rock-Paper-Scissors match.
+This is a simple command-line-based Rock-Paper-Scissors game implemented in HTML, CSS AND JAVASCRIPT. The game allows a player to compete against the computer in a classic Rock-Paper-Scissors match.
 
 Features
 
